@@ -1,1 +1,1 @@
-![alt text](https://github.com/Noobaseem/Node_development/new/master/simple-todos-angular/img.jpg)
+![alt text](https://github.com/Noobaseem/Node_development/blob/master/simple-todos-angular/img.jpg)
